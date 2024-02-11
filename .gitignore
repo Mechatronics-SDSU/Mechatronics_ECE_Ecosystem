@@ -1,0 +1,12 @@
+build/
+*.exe
+*.o
+*.out
+*.bin
+*.dblite
+*.asc
+*.#schlck
+*.#lck
+*.json
+*.elf
+*.uf2
