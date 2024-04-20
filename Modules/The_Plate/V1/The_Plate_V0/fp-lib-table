@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "/home/Don/compe160/Project/Mechatronics_ECE_Ecosystem/Modules/The_Plate/Library.pretty")(options "")(descr ""))
+)
