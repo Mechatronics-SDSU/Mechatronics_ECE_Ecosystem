@@ -1,4 +1,4 @@
-22301575100130787
+22305003847905540
 ADS8584SIPM
 BNC_THT
 
@@ -62320,6 +62320,13 @@ EL3H7(B)(TA)-G
 0
 4
 4
+MECH_CHIPS
+SC32S-7PF20PPM
+
+
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -92203,6 +92210,13 @@ PCIe
 0
 98
 98
+goldmansachs
+MSD-1-A_SD_CARD_W_DET
+
+
+0
+0
+0
 goldmansachs
 official_mechatronics_card
 PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70

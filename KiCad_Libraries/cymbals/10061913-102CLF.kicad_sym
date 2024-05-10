@@ -450,7 +450,7 @@
         (number "B7" (effects (font (size 1.016 1.016))))
       )
       (pin passive line (at 12.7 43.18 180) (length 5.08)
-        (name "I2C_SCl_0" (effects (font (size 1.016 1.016))))
+        (name "I2C_SCL_0" (effects (font (size 1.016 1.016))))
         (number "B8" (effects (font (size 1.016 1.016))))
       )
       (pin passive line (at 12.7 40.64 180) (length 5.08)
